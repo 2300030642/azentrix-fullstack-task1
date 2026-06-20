@@ -181,7 +181,7 @@ npm run dev
 ![Transaction List](screenshots/Transactions.png)
 
 ### Expense Chart
-![Expense Chart](screenshots/Expensechart.png)
+![Expense Chart](screenshots/Expenseschart.png)
 
 ---
 
