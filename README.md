@@ -196,6 +196,35 @@ npm run dev
 
 ---
 
+
+## Live Deployment Links
+
+### Frontend
+
+https://azentrix-fullstack-task1-2.onrender.com
+
+### Backend
+
+https://azentrix-fullstack-task1-backend.onrender.com
+
+---
+
+## Deployment Platforms
+
+### Frontend Hosting
+
+Render
+
+### Backend Hosting
+
+Render
+
+### Database Hosting
+
+Railway MySQL
+
+---
+
 ## Author
 
 **Nishitha Sirapu**
